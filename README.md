@@ -2,12 +2,11 @@
 
 Here I am going to publish all the things I learnt and feel important enough to share with you.
 
-### Markdown
+## Posts
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### How to get to Amazon in 6 month for Software Engineers
 
-```markdown
-Syntax highlighted code block
+This story starts in 2018 year when I was still studying in Centennial college in Toronto, Canada.
 
 # Header 1
 ## Header 2
