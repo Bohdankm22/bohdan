@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Bohdan's personal blog
 
-You can use the [editor on GitHub](https://github.com/Bohdankm22/bohdan/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here I am going to publish all the things I learnt and feel important enough to share with you.
 
 ### Markdown
 
