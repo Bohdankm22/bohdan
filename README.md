@@ -2,33 +2,33 @@
 
 Here I am going to publish all the things I learnt and feel important enough to share with you.
 
-## Posts
+- [Posts](#posts)
+  - [How to get to Amazon in 6 month for Software Engineers](#how-to-get-to-amazon-in-6-month-for-software-engineers)
+  - [How I started investing and got return of 100% in 2 years](#how-i-started-investing-and-got-return-of-100-in-2-years)
+  - [Challenge yourself](#challenge-yourself)
 
-### How to get to Amazon in 6 month for Software Engineers
+# Posts
 
-This story starts in 2018 year when I was still studying in Centennial college in Toronto, Canada.
+## How to get to Amazon in 6 month for Software Engineers
 
-# Header 1
-## Header 2
-### Header 3
+- This story starts in 2018 year when I was still studying in Centennial college in Toronto, Canada.
+- I have started preparing for inverviews month before copleting my program in the college.
+- I got a job at one of the big banks as a Software Developer before I finished the college, but I started working there right after the college since I was still on Study Permit (and got a Work Permit after college completion).
+- Amazon where I was also appliying when I was looking for a job contacted me with proposal to have a discussion on one of the roles they had open.
+- Rounds of interviews
+- Tips
+  - Amazon Leadership Principals
+  - Preparation
+  - Writing your code on a board or in a textbook
 
-- Bulleted
-- List
+## How I started investing and got return of 100% in 2 years
+{red}
+Disclaimer: I am not a financial advisor, nor I have financial degree. Please consider this article as a story rather than an advise for your investmanets.
+{red}
 
-1. Numbered
-2. List
+- I was always interested about the world of finance. Researching, "playing" on sandbox brokerage accounts etc. However, in the Ukraine investing is not common even between office workers and you don't often here them discussing stock prices of one or another company (exception is only the company they work for or partnered). In Ukraine most of the people see the world of investing as some king of casino where you have to gamble to "win" anything. So with that said people prefer investing in property since the property prices can't go down much and always recover.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Bohdankm22/bohdan/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Challenge yourself
+- 5am. get up challenge.
+ - This requires also self-descipline to go to bed early.
+- Morning run challenge (July 6 - TBC).
